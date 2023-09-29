@@ -1,3 +1,5 @@
+alert("This site is not yet fully developed and some features may not function properly in case of any bugs please email me: samijamal905@gmail.com. Happy quizing"
+)
 console.log("Hello bRothers")
 
 var country = [];
